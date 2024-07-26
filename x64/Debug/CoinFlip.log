@@ -1,0 +1,16 @@
+﻿  chooselevelscene.cpp
+  dataconfig.cpp
+  mycoin.cpp
+  mypushbutton.cpp
+  playscene.cpp
+  mainscene.cpp
+  main.cpp
+  qrc_mainscene.cpp
+  moc_mainscene.cpp
+  moc_mypushbutton.cpp
+  moc_chooselevelscene.cpp
+  moc_playscene.cpp
+  moc_mycoin.cpp
+  moc_dataconfig.cpp
+  LINK : 没有找到 E:\qtproject\CoinFlip\x64\Debug\CoinFlip.exe 或上一个增量链接没有生成它；正在执行完全链接
+  CoinFlip.vcxproj -> E:\qtproject\CoinFlip\x64\Debug\CoinFlip.exe

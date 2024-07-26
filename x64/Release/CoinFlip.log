@@ -1,0 +1,20 @@
+﻿  Reading Qt configuration (E:/Qt/5.14.2/msvc2017_64/bin/qmake)
+  chooselevelscene.cpp
+  dataconfig.cpp
+  mycoin.cpp
+  mypushbutton.cpp
+  playscene.cpp
+  mainscene.cpp
+  main.cpp
+  qrc_mainscene.cpp
+  moc_mainscene.cpp
+  moc_mypushbutton.cpp
+  moc_chooselevelscene.cpp
+  moc_playscene.cpp
+  moc_mycoin.cpp
+  moc_dataconfig.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 406 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CoinFlip.vcxproj -> E:\qtproject\CoinFlip\x64\Release\CoinFlip.exe

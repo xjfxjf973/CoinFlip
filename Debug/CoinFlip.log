@@ -1,0 +1,25 @@
+﻿  chooselevelscene.cpp
+E:\qtproject\CoinFlip\CoinFlip\chooselevelscene.h(3,10): error C1083: 无法打开包括文件: “QMainWindow”: No such file or directory
+  (编译源文件“chooselevelscene.cpp”)
+  
+  mycoin.cpp
+E:\qtproject\CoinFlip\CoinFlip\mycoin.h(3,10): error C1083: 无法打开包括文件: “QPushButton”: No such file or directory
+  (编译源文件“mycoin.cpp”)
+  
+  mypushbutton.cpp
+E:\qtproject\CoinFlip\CoinFlip\mypushbutton.h(3,10): error C1083: 无法打开包括文件: “QPushButton”: No such file or directory
+  (编译源文件“mypushbutton.cpp”)
+  
+  playscene.cpp
+E:\qtproject\CoinFlip\CoinFlip\playscene.h(3,10): error C1083: 无法打开包括文件: “QMainWindow”: No such file or directory
+  (编译源文件“playscene.cpp”)
+  
+  mainscene.cpp
+E:\qtproject\CoinFlip\CoinFlip\chooselevelscene.h(3,10): error C1083: 无法打开包括文件: “QMainWindow”: No such file or directory
+  (编译源文件“mainscene.cpp”)
+  
+  main.cpp
+E:\qtproject\CoinFlip\CoinFlip\chooselevelscene.h(3,10): error C1083: 无法打开包括文件: “QMainWindow”: No such file or directory
+  (编译源文件“main.cpp”)
+  
+  正在生成代码...
